@@ -157,24 +157,12 @@ namespace Hafta6
 
                     Console.Write($"{doksan_derece[i, j],4}");
 
-
-
                 }
                 Console.WriteLine();
             }
-
-
-
-
-
-
-
-
-
-
-
         }
     }
 }
+
 
 
