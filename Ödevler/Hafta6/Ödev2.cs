@@ -11,7 +11,7 @@ namespace Hafta6
     {
         static void Main(string[] args)
         {
-
+           #Hüseyin Can 253908013
             //Matris Oluşturur
             Random rnd = new Random();
             Console.Write("Bir N Değeri Giriniz: ");
@@ -176,4 +176,5 @@ namespace Hafta6
         }
     }
 }
+
 
